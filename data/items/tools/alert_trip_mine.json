@@ -1,0 +1,22 @@
+{
+    "name": "Alert Trip Mine",
+    "category": "Tool",
+    "wiki-link": "https://huntshowdown.fandom.com/wiki/Deception#Alert_Trip_Mine",
+    "img": "",
+    "cost": 60,
+    "unlock-level": 0,
+    "stats": {
+        "capacity": "0",
+        "damage": 0,
+        "melee": {
+            "damage": 13,
+            "rendering": "none",
+            "blunt": true
+        },
+        "heavy-melee": {
+            "damage": 27,
+            "rendering": "none",
+            "blunt": true
+        }
+    }
+}

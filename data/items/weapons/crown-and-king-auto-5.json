@@ -1,0 +1,31 @@
+{
+    "name": "Crown & King Auto-5",
+    "category": "Large",
+    "wiki-link": "https://huntshowdown.fandom.com/wiki/Weapons",
+    "img": "",
+    "cost": 600,
+    "unlock-level": 82,
+    "ammo": {
+        "type": "shotgun",
+        "damage-type": "normal"
+    },
+    "stats": {
+        "capacity": "4+1/5",
+        "damage": 185,
+        "effective-range": 12,
+        "rate-of-fire": 100,
+        "handling": 89,
+        "reload-speed": 10,
+        "muzzle-velocity": 425,
+        "melee": {
+            "damage": 27,
+            "rendering": "none",
+            "blunt": true
+        },
+        "heavy-melee": {
+            "damage": 54,
+            "rendering": "none",
+            "blunt": true
+        }
+    }
+}

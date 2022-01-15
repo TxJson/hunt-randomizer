@@ -1,0 +1,23 @@
+{
+    "name": "Antidote Shot",
+    "category": "Consumable",
+    "wiki-link": "https://huntshowdown.fandom.com/wiki/Poison#Antidote_Shot",
+    "img": "",
+    "cost": 55,
+    "unlock-level": 0,
+    "stats": {
+        "capacity": "0",
+        "effect-duration": 3600,
+        "damage": 0,
+        "melee": {
+            "damage": 13,
+            "rendering": "none",
+            "blunt": true
+        },
+        "heavy-melee": {
+            "damage": 27,
+            "rendering": "none",
+            "blunt": true
+        }
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "name": "Bomb Lance",
+    "category": "Large",
+    "wiki-link": "https://huntshowdown.fandom.com/wiki/Bomb_Lance#Bomb_Lance",
+    "img": "",
+    "cost": 199,
+    "unlock-level": 78,
+    "ammo": {
+        "type": "special"
+    },
+    "stats": {
+        "capacity": "1/5",
+        "damage": 150,
+        "effective-range": 25,
+        "rate-of-fire": 15,
+        "handling": 87,
+        "reload-speed": 4,
+        "muzzle-velocity": 60,
+        "melee": {
+            "damage": 180,
+            "rendering": "medium",
+            "blunt": false
+        },
+        "heavy-melee": {
+            "damage": 360,
+            "rendering": "intense",
+            "blunt": false
+        }
+    }
+}

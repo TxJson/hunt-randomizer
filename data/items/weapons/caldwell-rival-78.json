@@ -1,0 +1,30 @@
+{
+    "name": "Caldwell Rival 78",
+    "category": "Large",
+    "wiki-link": "https://huntshowdown.fandom.com/wiki/Caldwell_Rival_78#Caldwell_Rival_78",
+    "img": "",
+    "cost": 100,
+    "unlock-level": 18,
+    "ammo": {
+        "type": "shotgun"
+    },
+    "stats": {
+        "capacity": "2/8",
+        "damage": 175,
+        "effective-range": 10,
+        "rate-of-fire": 90,
+        "handling": 87,
+        "reload-speed": 4,
+        "muzzle-velocity": 400,
+        "melee": {
+            "damage": 27,
+            "rendering": "none",
+            "blunt": true
+        },
+        "heavy-melee": {
+            "damage": 54,
+            "rendering": "none",
+            "blunt": true
+        }
+    }
+}

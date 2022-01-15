@@ -1,0 +1,30 @@
+{
+    "name": "Caldwell Rival 78 Handcannon",
+    "category": "Medium",
+    "wiki-link": "https://huntshowdown.fandom.com/wiki/Caldwell_Rival_78#Caldwell_Rival_78",
+    "img": "",
+    "cost": 85,
+    "unlock-level": 78,
+    "ammo": {
+        "type": "shotgun"
+    },
+    "stats": {
+        "capacity": "2/6",
+        "damage": 85,
+        "effective-range": 7,
+        "rate-of-fire": 90,
+        "handling": 84,
+        "reload-speed": 4,
+        "muzzle-velocity": 350,
+        "melee": {
+            "damage": 13,
+            "rendering": "none",
+            "blunt": true
+        },
+        "heavy-melee": {
+            "damage": 31,
+            "rendering": "none",
+            "blunt": true
+        }
+    }
+}

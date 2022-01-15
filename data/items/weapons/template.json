@@ -1,0 +1,31 @@
+{
+    "name": "template",
+    "category": "Item category",
+    "wiki-link": "Link to the hunt showdown wiki",
+    "img": "Image Link",
+    "cost": 0,
+    "unlock-level": 0,
+    "ammo": {
+        "type": "ammo type",
+        "damage-type": "normal"
+    },
+    "stats": {
+        "capacity": "1/5",
+        "damage": 0,
+        "effective-range": 0,
+        "rate-of-fire": 0,
+        "handling": 0,
+        "reload-speed": 0,
+        "muzzle-velocity": 0,
+        "melee": {
+            "damage": 0,
+            "rendering": "none",
+            "blunt": false
+        },
+        "heavy-melee": {
+            "damage": 0,
+            "rendering": "none",
+            "blunt": false
+        }
+    }
+}
