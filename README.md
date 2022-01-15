@@ -1,1 +1,1 @@
-# hunt-showdown-loadout-randomizer
+# hunt-randomizer
